@@ -31,7 +31,7 @@ urlpatterns = [
         'dev/profiles/',
         include('profiles.urls', namespace='profiles')
     ),
-    path('admin/', admin.site.urls),
+    
 ]
 
 

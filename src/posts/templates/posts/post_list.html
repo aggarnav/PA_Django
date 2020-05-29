@@ -25,7 +25,7 @@
       <div class="card-right">
         <a href="{{post.get_like_url}}" class="btn btn-sm">Like {{post.like_set.all|length}}</a>
         <a href="{{post.get_unlike_url}}" class="btn btn-sm">Unlike {{post.unlike_set.all|length}}</a>
-        <a href="{{post.get_absolute_url}}" class="btn btn-outline-primary ml-3">Explore
+        <a href="{{post.get_absolute_url}}" class="btn btn-outline-primary ml-3">Comments:
           {{post.comment_set.all|length}}</a>
       </div>
     </div>
