@@ -26,7 +26,7 @@
  - CSS has been used
  - Users can like posts. Likes are tallied
  - They can add comments which can be viewed by refreshing the page
- - Site hosted on heroku
+ - Site hosted on pythonanywhere http://arnavagg.pythonanywhere.com/dev/accounts/login/
  - Mandatory email verification wasn’t included keeping privacy in mind since it required email passwords and usernames
 
 <h3>General Thoughts</h3>
